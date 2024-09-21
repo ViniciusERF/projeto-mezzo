@@ -17,7 +17,7 @@ header{ /* Cor preta com 50% de opacidade */
     position: fixed;
     inset: 0;
     z-index: -1;
-    background: linear-gradient(109deg, rgba(10, 12, 16, 0.99) 15%, rgba(10, 12, 16, 0.7) 50%, rgba(10, 12, 16, 0.99) 85%);
+    background: linear-gradient(109deg, rgba(10, 12, 16, 0.8) 15%, rgba(10, 12, 16, 0.7) 50%, rgba(10, 12, 16, 0.8) 85%);
 }
 
 #bg-video {
